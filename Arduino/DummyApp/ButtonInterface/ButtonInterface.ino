@@ -1,4 +1,6 @@
 
+// This is the latest file which is working with SDK Demo.
+
 int button = 16; // push button is connected
 int temp = 0;    // temporary variable for reading the button pin status
 
